@@ -31,6 +31,7 @@ public class JPTV21strings {
 //        System.out.print("Перевернутая строка: "+ Arrays.toString(charArrayEnd));
         String reversString = new String(charArrayEnd);
         System.out.println("Revers: " + reversString);
+        System.out.println("Now I can work on this project from home");
     }
     
 }
